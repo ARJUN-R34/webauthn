@@ -11,7 +11,7 @@ Further documentation about the protocol can be found [here](https://w3c.github.
 
 ---------------------------
 
-TO interact with this project, check this [url out](https://arjun-r34.github.io/webauthn)
+To interact with this project, check this [url out](https://arjun-r34.github.io/webauthn)
 
 To run this project,
 ---------------------------
