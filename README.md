@@ -1,7 +1,7 @@
 # Passwordless Storage and Retrieval of Secrets using WebAuthn
 
 How does the Webauthn protocol work?
----------------------------
+------------------------------------
 
 This diagram shows how the Webauthn protocol works, slightly simplified.
 
@@ -10,6 +10,8 @@ This diagram shows how the Webauthn protocol works, slightly simplified.
 Further documentation about the protocol can be found [here](https://w3c.github.io/webauthn/).
 
 ---------------------------
+
+TO interact with this project, check this [url out](https://arjun-r34.github.io/webauthn)
 
 To run this project,
 ---------------------------
