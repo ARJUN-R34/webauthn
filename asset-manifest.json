@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webauthn/static/css/main.f4b44777.css",
+    "main.js": "/webauthn/static/js/main.bd334848.js",
+    "index.html": "/webauthn/index.html",
+    "main.f4b44777.css.map": "/webauthn/static/css/main.f4b44777.css.map",
+    "main.bd334848.js.map": "/webauthn/static/js/main.bd334848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b44777.css",
+    "static/js/main.bd334848.js"
+  ]
+}
