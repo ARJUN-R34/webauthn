@@ -1,0 +1,87 @@
+html {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+section {
+  margin: 20px 20 20px 20;
+}
+
+.info-text {
+  font-size: 1.1em;
+  text-align: center;
+  font-weight: 600;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+.generate-buttons {
+  font-size: 1.1em;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+}
+
+h2 {
+  padding-top: 1%;
+  padding-bottom: 50px;
+}
+
+.btn-row {
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+hr {
+  padding-top: 1%;
+}
+
+.generate-addresses {
+  padding-bottom: 1%;
+}
+
+.card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  font: 1.2em sans-serif;
+}
+
+/* Logo & Header */
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+#logo-container {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+#logo-text {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+#mm-logo {
+  width: 100%;
+}
+
+/* Encrypt/Decrypt */
+
+#encryptMessageInput {
+  margin-bottom: 1rem;
+}
+
+.warning-invisible {
+  display: none;
+}
